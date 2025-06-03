@@ -4,13 +4,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akbar Sobirjonov
 ========================================================================================================================================
 
-Mobile Developer
+Data Analyst
 ----------------
 
 * 🌍  I'm based in Tashkent, Uzbekistan
-* 🧠  I'm learning advanced concepts of mobile development
-* 🤝  I'm open to collaborating on android based projects
-* ⚡  I am also acquiring skills of web development🕸️
+* 🧠  I'm improving my knowledge in Data Sphere
+* 🤝  I'm open to collaborate with any Data projects
+* ⚡  I am also has acquiring skills in web development🕸️
 
 ### Skills
 
