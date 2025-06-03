@@ -7,10 +7,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ----------------
 
-* 🌍  I'm based in Tashkent, Uzbekistan
-* 🧠  I'm improving my knowledge in Data Sphere
-* 🤝  I'm open to collaborate with any Data projects
-* ⚡  I am also has acquiring skills in web development🕸️
+* 🌍 I'm based in Tashkent, Uzbekistan
+* 🧠 I'm currently expanding my expertise in the field of Data Analytics
+* 📚 I focus on learning Python, SQL, statistics, and data visualization tools
+* 🤝 I'm open to collaborating on real-world data analysis and machine learning projects
+* 📈 I'm working with tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
 
 ### Skills
 
