@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 <h1 align="center">Data Analyst</h1>
-----------------
+
 
 * 🌍 I'm based in Tashkent, Uzbekistan
 * 🧠 I'm currently expanding my expertise in the field of Data Analytics
