@@ -8,13 +8,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍 I'm based in Tashkent, Uzbekistan
-* 🧠 I'm currently expanding my expertise in the field of Data Analytics
-* 📚 I focus on improving Python, SQL, statistics, and data visualization tools
-* 🤝 I'm open to collaborating on real-world data analysis and machine learning projects
-* 📈 I'm working with tools like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
+* 🧠 Actively developing skills and knowledge in Data Analytics
+* 📚 My main focus on improving Python, SQL, statistics, and data visualization tools
+* 🤝 Open to joint work on real-world data analytics and machine learning solutions 
+* 📈 Also, I'm increasing my knowledge on Fron-End 
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,7 +33,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36" style="max-width: 100%;"></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/d124825d0e0968226011ee97e6001d44a4844a75cc2a1a058cde8bf7791bea97/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="36" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"></a>
 </p>
-
 
 ### Socials
 
@@ -56,23 +54,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/akbarsobirjonov"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akbarsobirjonov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/akbarsobirjonov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarsobirjonov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **akbarsobirjonov/akbarsobirjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
